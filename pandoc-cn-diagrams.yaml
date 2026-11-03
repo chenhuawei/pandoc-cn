@@ -1,0 +1,6 @@
+filters:
+  - /usr/local/share/pandoc/filters/diagram-image-filter.lua
+pdf-engine: xelatex
+variables:
+  CJKmainfont: Noto Sans CJK SC
+  geometry: margin=2cm
